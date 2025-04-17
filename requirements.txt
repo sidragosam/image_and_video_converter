@@ -1,0 +1,2 @@
+# Python standard library only (tkinter, os, subprocess, shutil)
+# No external dependencies required.
